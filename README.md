@@ -1,4 +1,4 @@
-# hppocampus_experimental_methods
+# Ideas for experimental methods to figure out functionality in the hippocampus
 
 ## By species 
 ### In humans
